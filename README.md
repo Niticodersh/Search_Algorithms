@@ -2,7 +2,7 @@
 
 ## Overview
 
-This Colab Notebook contains the implementation of seven different search algorithms for sorting numbers in an array. These algorithms are designed to efficiently arrange an input array into the desired sorted order. The project includes the following sorting algorithms:
+This github repo contains the implementation of seven different search algorithms for sorting numbers in an array. These algorithms are designed to efficiently arrange an input array into the desired sorted order. The project includes the following sorting algorithms:
 1. Depth-First Search (DFS)
 2. Iterative Deepening Depth-First Search (IDDFS or IDS)
 3. Breadth-First Search (BFS)
@@ -192,7 +192,7 @@ This Colab Notebook contains the implementation of seven different search algori
 
 ## Usage Instructions
 
-1. Open the Colab Notebook file `B21AI056 Nitish Bhardwaj  AI Assignment1.ipynb` in your preferred Notebook environment.
+1. Open the file `Codebase.ipynb` in your preferred Notebook environment.
 
 2. Navigate through the notebook to explore and execute each algorithm's implementation. Each section is clearly labeled with the name of the algorithm it demonstrates.
 
